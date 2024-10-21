@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on: [Movie Bot](https://github.com/SnarkyDeveloper/Movie-Bot)
 
-- 🌱 I’m currently learning: **I'm currently learning Linux, Hackintosh, and Java.**
-
 - 🔭 Other Projects: [Imessage Bot](https://github.com/SnarkyDeveloper/Messages-Bot)
+
+- 🌱 I’m currently learning: **I'm currently learning Linux, Hackintosh, and Java.**
 
 - 🤝 I’m looking for help with: **Java and Mod Development for minecraft**
 
