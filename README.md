@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snarkydeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="snarkydeveloper" /> </p>
 
-- 🔭 I’m currently working on: [Movie Bot](https://github.com/SnarkyDeveloper/Movie-Bot)
+- 🔭 I’m currently working on: [Imessage Bot](https://github.com/SnarkyDeveloper/Messages-Bot)
 
-- 🔭 Other Projects: [Imessage Bot](https://github.com/SnarkyDeveloper/Messages-Bot)
+- 🔭 Other Projects: [Movie Bot](https://github.com/SnarkyDeveloper/Movie-Bot)
 
 - 🌱 I’m currently learning: **I'm currently learning Linux, Hackintosh, and Java.**
 
