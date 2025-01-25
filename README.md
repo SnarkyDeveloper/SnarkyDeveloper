@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SnarkyDev!</h1>
-<h3 align="center">I'm a 13 year old backend developer. I'm still learning!</h3>
+<h3 align="center">I'm a 14 year old backend developer. I'm still learning!</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snarkydeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="snarkydeveloper" /> </p>
