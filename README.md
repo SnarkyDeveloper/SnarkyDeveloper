@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **I'm currently learning Linux & Rust.**
 
-- 🤝 I’m looking for help with: **Java and Mod Development for minecraft**
+- 🤝 I’m looking for help with: **Rust**
 
 - 👍 Know about my experiences: I don't have anything much. Yet.
 
