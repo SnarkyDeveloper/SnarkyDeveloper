@@ -5,7 +5,7 @@
 
 - 🔥 I’m currently working on: [Assemble](https://github.com/SnarkyDeveloper/Assemble) (My language)
 
-- 🔥 Other Projects: [Roxy](https://github.com/SnarkyDeveloper/Roxy) (Still private for now. It's a customizable reverse proxy)
+- 🔥 Other Projects: [Roxy](https://github.com/SnarkyDeveloper/Roxy) (FINALY PUBLIC! It's a customizable reverse proxy)
 
 - 🌱 I’m currently learning: **I'm currently learning Assembly & C.**
 
